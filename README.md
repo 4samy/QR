@@ -4,12 +4,6 @@ A lightweight MediaWiki user script that adds **Quick Replies templates** to the
 
 ## Screenshots
 
-Place your screenshots in `docs/screenshots/` (or change the paths below to match your repo).
-
-- `docs/screenshots/toolbar.png`
-- `docs/screenshots/picker.png`
-- `docs/screenshots/manager.png`
-
 ![Quick Replies button in the reply toolbar](docs/screenshots/toolbar.png)
 ![Template picker](docs/screenshots/picker.png)
 ![Template manager](docs/screenshots/manager.png)
